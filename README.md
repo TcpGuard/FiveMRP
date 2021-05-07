@@ -1,3 +1,3 @@
 # fivemrp
 # Five M FXServer Reverse Proxy NGINX
-use Nginx v1.19
+using Nginx v1.19 + Centos 7
